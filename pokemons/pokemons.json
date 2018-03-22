@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bulbasaur",
+    "level": 10
+  },
+  {
+    "name": "Pikachu",
+    "level": 100
+  },
+  {
+    "name":"Haunter",
+    "level":48
+  },
+  {
+    "name":"Snorlax",
+    "level":65
+  },
+  {
+    "name":"Suicune",
+    "level":88
+  },
+  {
+    "name":"Metagross",
+    "level":45
+  },
+  {
+    "name":"Articuno",
+    "level":30
+  },
+  {
+    "name":"Belemoth",
+    "level":0
+  }
+]
